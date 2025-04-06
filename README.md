@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Fernando Liévano, Full Stack Developer & More!
+I'm Fernando Liévano, Frontend Developer & More!
 
 - ⚙️ I work daily with: .ts, .js, .html, .css, .php and more.
 - 📚 Currently learning about AI and other programming languages.
