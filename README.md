@@ -6,4 +6,4 @@ I'm Fernando Liévano, Frontend Developer & More!
 - 📚 Currently learning about AI and other programming languages.
 - 💼 Looking for remote opportunities in Vue.js/Nuxt 3 or Full Stack Development.
 - 💬 Open to collaboration on interesting projects.
-- 📧 Reach me via GitHub or LinkedIn.
+- 📧 Reach me via Email or LinkedIn.
